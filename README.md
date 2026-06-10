@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 🌙 Intelligent Night Vision Enhancement • 🚗 Real-Time Driving Assistance • 🎯 YOLOv8 Object Detection • 💡 Glare Reduction
+###  Intelligent Night Vision Enhancement •  Real-Time Driving Assistance •  YOLOv8 Object Detection •  Glare Reduction
 
 <br>
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 VisionTrack is an AI-powered night vision assistance system designed to improve visibility and safety during night driving. Using advanced computer vision and deep learning techniques, the system enhances low-light footage, reduces headlight glare, and detects pedestrians, animals, and obstacles in real-time.
 
@@ -33,43 +33,43 @@ The project combines OpenCV image enhancement, YOLOv8 object detection, and Stre
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🌙 Night Vision Enhancement
+###  Night Vision Enhancement
 - Enhances visibility in low-light environments
 - Improves road and object clarity during night driving
 - AI-assisted image processing for better perception
 
-### 🎨 Contrast Enhancement
+###  Contrast Enhancement
 - Uses CLAHE (Contrast Limited Adaptive Histogram Equalization)
 - Highlights dark regions without overexposure
 - Improves scene visibility in real time
 
-### 💡 Glare Reduction
+###  Glare Reduction
 - Minimizes headlight glare from oncoming vehicles
 - Preserves important road details
 - Adaptive thresholding and image correction
 
-### 🎯 AI Object Detection
+###  AI Object Detection
 - Powered by YOLOv8
 - Detects pedestrians, animals, vehicles, and obstacles
 - Real-time bounding boxes and alerts
 
-### 🎥 Live Video Processing
+###  Live Video Processing
 - Real-time frame enhancement
 - Side-by-side original vs enhanced comparison
 - Continuous video stream analysis
 
-### 🖥 Interactive Dashboard
+###  Interactive Dashboard
 - Built using Streamlit
 - Enable/disable AI features dynamically
 - User-friendly visualization interface
 
-### 📹 Video Recording
+###  Video Recording
 - Save processed video output
 - Record enhanced footage for later analysis
 
-### 👓 Future Smart Glasses Integration
+###  Future Smart Glasses Integration
 - ESP32-S3 AI Module Support
 - Infrared Night Vision Sensors
 - OLED/HUD Display Integration
@@ -77,7 +77,7 @@ The project combines OpenCV image enhancement, YOLOv8 object detection, and Stre
 - Wearable AI Vision Assistance
 
 ---
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Programming Languages
 - Python
@@ -107,7 +107,7 @@ The project combines OpenCV image enhancement, YOLOv8 object detection, and Stre
 
 ---
 
-## 🏗 System Architecture
+##  System Architecture
 
 ```text
 Video Input / Camera Feed
@@ -147,7 +147,7 @@ Video Input / Camera Feed
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
 ### Step 1: Video Acquisition
 The system captures live video streams from a camera source and processes each frame individually.
@@ -169,7 +169,7 @@ Users can dynamically enable or disable enhancement features and compare origina
 
 ---
 
-## 📊 Competitive Advantages
+##  Competitive Advantages
 
 | Feature | VisionTrack | Traditional Night Vision Glasses | Adaptive Car Headlights |
 |----------|------------|---------------------------------|------------------------|
@@ -184,7 +184,7 @@ Users can dynamically enable or disable enhancement features and compare origina
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Vision-Track/
@@ -212,7 +212,7 @@ Vision-Track/
 
 ---
 
-## ⚙ Installation
+##  Installation
 
 ### Clone Repository
 
@@ -240,38 +240,38 @@ streamlit run app.py
 
 ---
 
-## 🚀 Future Scope
+##  Future Scope
 
-### 👓 Smart Wearable Integration
+###  Smart Wearable Integration
 - AI-powered smart glasses for night driving assistance
 - Lightweight and portable wearable system
 
-### 🌡 Infrared & Thermal Vision
+###  Infrared & Thermal Vision
 - Thermal imaging for improved pedestrian detection
 - Enhanced performance in foggy and low-visibility conditions
 
-### 🧠 Personalized AI Adaptation
+###  Personalized AI Adaptation
 - User-specific brightness and contrast adjustments
 - Adaptive visibility enhancement based on vision conditions
 
-### 🛰 Vehicle Integration
+###  Vehicle Integration
 - Integration with vehicle safety systems
 - Driver assistance and hazard alerts
 
-### 🥽 AR-Based Navigation
+###  AR-Based Navigation
 - Augmented Reality overlays
 - Lane guidance and navigation assistance
 
-### ☁ Cloud Connectivity
+###  Cloud Connectivity
 - Remote diagnostics
 - Firmware updates
 - AI model improvements
 
 ---
 
-## 👨‍💻 Team Members
+##  Team Members
 
-### Shreya
+### Shreya L
 **Role:** Team Lead, Pitching & Business Strategy
 
 Responsibilities:
@@ -282,7 +282,7 @@ Responsibilities:
 - Investor pitch preparation
 - Presentation and demonstration
 
-### Rida
+### Rida Azam
 **Role:** Pitching & Market Analysis
 
 Responsibilities:
@@ -292,7 +292,7 @@ Responsibilities:
 - Go-to-market strategy
 - Presentation and pitching
 
-### Anirudh
+### Anirudh Mandanna
 **Role:** Prototype Developer & AI Engineer
 
 Responsibilities:
@@ -305,7 +305,7 @@ Responsibilities:
 
 ---
 
-## 🏆 Competition & Presentation
+##  Competition & Presentation
 
 ### Pitch Perfect Competition 2025 - Falak, MIT Bangalore
 
@@ -324,6 +324,3 @@ The project received appreciation for combining Artificial Intelligence, Compute
 
 ---
 
-
-
----
