@@ -1,4 +1,4 @@
-# VisionTrack - Smart Glasses, Smarter Driving
+# VisionTrack - Smart Glasses, Smarter Driving HI
 
 An AI-powered computer vision application built to assist with night blindness detection and enhanced visual perception. Developed and presented at TechSolstice 2024 under the Pitch Tank event.
 
