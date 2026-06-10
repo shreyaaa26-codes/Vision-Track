@@ -1,4 +1,5 @@
-# 👓 VisionTrack — AI-Powered Night Vision Assistance System
+#  VisionTrack — AI-Powered Night Vision Assistance System
+"Smarter Glasses. Smarter Driving"
 
 ---
 
